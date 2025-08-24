@@ -5,6 +5,7 @@
 *******
 *********
 */
+/*3 ways to print the above pattern*/
 public class Pattern1 {
     public void print1(){
     for(int i=1;i<=5;i++){
@@ -37,3 +38,4 @@ public class Pattern1 {
         p.print3();
     }
 }
+
